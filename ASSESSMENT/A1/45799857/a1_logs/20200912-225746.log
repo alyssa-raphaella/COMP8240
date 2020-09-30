@@ -1,0 +1,7 @@
+20200912-225746: START >> Wikidata extraction
+20200912-225746: CREATED >> raw_057.ref raw_157.ref
+20200912-225746: DONE >> Wikidata Extraction
+20200912-225746: START >> Input data cleaning
+20200912-225746: CREATED >> 057.txt 157.txt
+20200912-225746: DONE >> Input Data Cleaning
+20200912-225746: START >> Segmentation 057; 2 boundary

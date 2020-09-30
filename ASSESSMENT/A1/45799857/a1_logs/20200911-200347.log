@@ -1,0 +1,73 @@
+20200911-200347: START >> Wikidata extraction
+20200911-200347: CREATED >> raw_057.ref raw_157.ref
+20200911-200347: DONE >> Wikidata Extraction
+20200911-200347: START >> Input data cleaning
+20200911-200347: CREATED >> 057.txt 157.txt
+20200911-200347: DONE >> Input Data Cleaning
+20200911-200347: START >> Segmentation 057; 2 boundary
+20200911-200347: DONE >> Segmentation ; 2 boundary
+20200911-200347: START >> Segmentation 157; 2 boundary
+20200911-200347: DONE >> Segmentation ; 2 boundary
+20200911-200347: START >> Segment Evaluation of 157, 2 boundary
+20200911-200347: UPDATED >> wd_old 0.3221, pk_old 0.3221, 2
+20200911-200347: DONE >> Segmentation Evalutation of 157, 2 boundary
+20200911-200347: START >> Segmentation 057; 3 boundary
+20200911-200347: DONE >> Segmentation ; 3 boundary
+20200911-200347: START >> Segmentation 157; 3 boundary
+20200911-200347: DONE >> Segmentation ; 3 boundary
+20200911-200347: START >> Segment Evaluation of 157, 3 boundary
+20200911-200347: UPDATED >> wd_old 0.1983, pk_old 0.1983, 3
+20200911-200347: UPDATED >> 057.ref
+20200911-200347: UPDATED >> 157.ref
+20200911-200347: DONE >> Segmentation Evalutation of 157, 3 boundary
+20200911-200347: START >> Segmentation 057; 4 boundary
+20200911-200347: DONE >> Segmentation ; 4 boundary
+20200911-200347: START >> Segmentation 157; 4 boundary
+20200911-200347: DONE >> Segmentation ; 4 boundary
+20200911-200347: START >> Segment Evaluation of 157, 4 boundary
+20200911-200347: UPDATED >> wd_old 0.1722, pk_old 0.1574, 4
+20200911-200347: UPDATED >> 057.ref
+20200911-200347: UPDATED >> 157.ref
+20200911-200347: DONE >> Segmentation Evalutation of 157, 4 boundary
+20200911-200347: START >> Segmentation 057; 5 boundary
+20200911-200347: DONE >> Segmentation ; 5 boundary
+20200911-200347: START >> Segmentation 157; 5 boundary
+20200911-200347: DONE >> Segmentation ; 5 boundary
+20200911-200347: START >> Segment Evaluation of 157, 5 boundary
+20200911-200347: DONE >> Segmentation Evalutation of 157, 5 boundary
+20200911-200347: START >> Segmentation 057; 6 boundary
+20200911-200347: DONE >> Segmentation ; 6 boundary
+20200911-200347: START >> Segmentation 157; 6 boundary
+20200911-200347: DONE >> Segmentation ; 6 boundary
+20200911-200347: START >> Segment Evaluation of 157, 6 boundary
+20200911-200347: UPDATED >> wd_old 0.1251, pk_old 0.1121, 6
+20200911-200347: UPDATED >> 057.ref
+20200911-200347: UPDATED >> 157.ref
+20200911-200347: DONE >> Segmentation Evalutation of 157, 6 boundary
+20200911-200347: START >> Segmentation 057; 7 boundary
+20200911-200347: DONE >> Segmentation ; 7 boundary
+20200911-200347: START >> Segmentation 157; 7 boundary
+20200911-200347: DONE >> Segmentation ; 7 boundary
+20200911-200347: START >> Segment Evaluation of 157, 7 boundary
+20200911-200347: DONE >> Segmentation Evalutation of 157, 7 boundary
+20200911-200347: START >> Segmentation 057; 8 boundary
+20200911-200347: DONE >> Segmentation ; 8 boundary
+20200911-200347: START >> Segmentation 157; 8 boundary
+20200911-200347: DONE >> Segmentation ; 8 boundary
+20200911-200347: START >> Segment Evaluation of 157, 8 boundary
+20200911-200347: DONE >> Segmentation Evalutation of 157, 8 boundary
+20200911-200347: START >> Segmentation 057; 9 boundary
+20200911-200347: DONE >> Segmentation ; 9 boundary
+20200911-200347: START >> Segmentation 157; 9 boundary
+20200911-200347: DONE >> Segmentation ; 9 boundary
+20200911-200347: START >> Segment Evaluation of 157, 9 boundary
+20200911-200347: DONE >> Segmentation Evalutation of 157, 9 boundary
+20200911-200347: START >> Segmentation 057; 10 boundary
+20200911-200347: DONE >> Segmentation ; 10 boundary
+20200911-200347: START >> Segmentation 157; 10 boundary
+20200911-200347: DONE >> Segmentation ; 10 boundary
+20200911-200347: START >> Segment Evaluation of 157, 10 boundary
+20200911-200347: DONE >> Segmentation Evalutation of 157, 10 boundary
+20200911-200347: START >> Composite File Creation
+20200911-200347: DONE >> Composite File Creation
+20200911-200347: SCRIPT DONE!!
